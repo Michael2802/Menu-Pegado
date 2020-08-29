@@ -1,4 +1,4 @@
-*{
+            *{
 box-sizing: border-box;
 }
 body{
@@ -16,7 +16,7 @@ h1{
   background: #333;
 }
 .cambio{
-  background: rgba(220, 60, 20, 0.9);
+  background: black;
 }
 
 .fixed {

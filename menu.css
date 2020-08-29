@@ -1,0 +1,27 @@
+*{
+box-sizing: border-box;
+}
+body{
+  margin: 0;
+  font-family: sans-serif;
+  padding-bottom: 100em;
+}
+
+h1, .cambio {
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+h1{
+  background: #333;
+}
+.cambio{
+  background: rgba(220, 60, 20, 0.9);
+}
+
+.fixed {
+  position: fixed;
+  width: 100%;
+  top:0;
+  left: 0;
+}
